@@ -6,7 +6,7 @@ tags:
   - post
 draft: true
 created: 2026-09-12T13:54
-updated: 2026-09-13T07:14
+updated: 2026-09-13T18:19
 ---
 Masa-san is pawning the family silver. The good news: he still has family silver. The bad news: it's ARM, one of the crown jewels of global tech, and he's now borrowing against it on margin from a bank syndicate.
 
@@ -36,5 +36,4 @@ Masa-san, we love you, we really do. You blessed us with a decade of the most un
 
 Get the force checked. Hire a shaman. Expense it to the syndicate. **Just — get some help, Masa-san.**
 
-Sincerely,
-Inky, an automaton with the intellectual firepower of a slugcat.
+Sincerely Inky, an Automaton with the Intellectual Firepower of a Slugcat.
