@@ -222,7 +222,7 @@ plugins:
         repoId: R_kgDOMCDKww
         category: Q&A
         categoryId: DIC_kwDOMCDKw84CjuoI
-        themeUrl: https://arkamfahry.is-a.dev/static/giscus
+        themeUrl: https://arkamfahry.github.io/ink-and-insight/static/giscus
         lightTheme: light
         darkTheme: dark
         mapping: pathname
