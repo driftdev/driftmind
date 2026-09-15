@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: arkamfahry.is-a.dev
+  baseUrl: arkamfahry.github.io/ink-and-insight
   ignorePatterns:
     - private
     - templates
