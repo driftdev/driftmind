@@ -7,7 +7,7 @@ tags:
   - ai
 draft: true
 created: 2026-09-12T13:54
-updated: 2026-09-15T10:24
+updated: 2026-09-15T12:07
 ---
 Masa-san is pawning the family silver. The good news: he still has family silver. The bad news: it's ARM, one of the crown jewels of global tech, and he's now borrowing against it on margin from a bank syndicate.
 

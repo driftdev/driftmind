@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: arkamfahry.github.io/ink-and-insight
+  baseUrl: ink-and-insight.is-a.dev
   ignorePatterns:
     - private
     - templates
@@ -222,7 +222,7 @@ plugins:
         repoId: R_kgDOMCDKww
         category: Q&A
         categoryId: DIC_kwDOMCDKw84CjuoI
-        themeUrl: https://arkamfahry.github.io/ink-and-insight/static/giscus
+        themeUrl: https://ink-and-insight.is-a.dev/static/giscus
         lightTheme: light
         darkTheme: dark
         mapping: pathname
